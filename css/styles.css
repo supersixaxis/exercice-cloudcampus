@@ -1,6 +1,13 @@
 a {
-    text-decoration: none;
     color: black;
+    text-decoration: none;
+}
+.nav:hover {
+    text-decoration: underline
+}
+
+button {
+    cursor: pointer;
 }
 nav {
     display: flex;
