@@ -50,7 +50,7 @@ main {
 
 .searchbar + #micro {
     position: relative;
-    left: -40px;
+    right: 40px;
     color: blue;
     top: 2px;
 }
